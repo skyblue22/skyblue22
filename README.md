@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wonjoon Lee
+## 👋 Hi, I'm Wonjoon Lee
 
 MD student at Seoul National University College of Medicine  
 Interested in **AI, computational biology, neuroscience, and biophysical modeling**
@@ -7,23 +7,20 @@ I enjoy exploring how **mathematics, physics, and computation** can help us unde
 
 ---
 
-# 🧠 Research Interests
+## 🧠 Research Interests
 
 - Computational neuroscience
 - AI for biomedical discovery
-- Imaging genetics and multimodal brain modeling
 - Biophysical modeling of biological systems
 - Genetic engineering and molecular biology
 - Dynamical systems in biology
 - Digital health and predictive medicine
 
-I am particularly interested in building **interpretable computational models** that connect molecular mechanisms, neural systems, and disease progression.
+I am particularly interested in building **interpretable computational models** that link molecular mechanisms, biological systems, and disease progression.
 
 ---
 
-# 🔬 Current Research Direction
-
-I am interested in developing **interpretable AI and dynamical models** for complex biological systems.
+## 🔬 Current Research Direction
 
 Some directions I am exploring include:
 
@@ -34,12 +31,14 @@ Some directions I am exploring include:
 
 ---
 
-# ⚙️ Technical Skills
+## ⚙️ Technical Skills
 
 **Programming**
 
 - Python
 - R
+- Pytorch, Tensorflow
+- Javascript, HTML, CSS
 
 **Areas of Experience**
 
@@ -50,7 +49,7 @@ Some directions I am exploring include:
 
 ---
 
-# 📄 Publications
+## 📄 Publications
 
 **Individualized predictions for clinical milestone in amyotrophic lateral sclerosis: A multialgorithmic approach**  
 Oh HJ, Lee WJ, Sung JJ, Hong YH (2024)  
@@ -60,7 +59,7 @@ This work developed machine learning models to predict **loss of swallowing func
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 **Seoul National University College of Medicine**  
 Doctor of Medicine (2020 – )
@@ -76,7 +75,7 @@ Relevant Coursework
 
 ---
 
-# 🏆 Awards
+## 🏆 Awards
 
 - Future Talent Award (Junsoo Kwon Clinical Medicine Student Research Award), SNU College of Medicine
 - Excellence in Poster Presentation, Biomedical Research Festival
@@ -84,7 +83,7 @@ Relevant Coursework
 
 ---
 
-# 📚 Intellectual Interests
+## 📚 Intellectual Interests
 
 Beyond biomedical AI, I am also interested in conceptual frameworks that help explain complex systems:
 
@@ -98,7 +97,7 @@ These perspectives provide useful tools for understanding **emergent phenomena i
 
 ---
 
-# 🚀 Long-term Vision
+## 🚀 Long-term Vision
 
 In the long term, I am interested in understanding the **fundamental principles that govern living systems**.
 
