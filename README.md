@@ -55,7 +55,7 @@ Some directions I am exploring include:
 Oh HJ, Lee WJ, Sung JJ, Hong YH (2024)  
 DOI: https://doi.org/10.1177/20552076241260120
 
-This work developed machine learning models to predict **loss of swallowing function in ALS patients**. :contentReference[oaicite:0]{index=0}
+This work developed machine learning models to predict **loss of swallowing function in ALS patients**. 
 
 ---
 
@@ -101,13 +101,13 @@ These perspectives provide useful tools for understanding **emergent phenomena i
 
 In the long term, I am interested in understanding the **fundamental principles that govern living systems**.
 
-In particular, I am curious about how biological systems organize and process **information, energy, and dynamics over time**, and how these processes give rise to higher-level functions such as cognition, memory, and disease progression.
+In particular, I am curious about how biological systems organize and process **information, energy, and dynamics over time**, and how these processes give rise to higher-level functions such as cognition and memory, as well as complex phenomena like disease progression.
 
 I hope to explore these questions by combining **computational modeling, AI, and insights from physics** to better understand the structure and dynamics of biological systems.
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 Email: bluebird22@snu.ac.kr  
 Location: Seoul, South Korea
