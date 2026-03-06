@@ -101,7 +101,7 @@ These perspectives provide useful tools for understanding **emergent phenomena i
 
 In the long term, I am interested in understanding the **fundamental principles that govern living systems**.
 
-In particular, I am curious about how biological systems organize and process **information, energy, and dynamics over time**, and how these processes give rise to higher-level functions such as cognition and memory, as well as complex phenomena like disease progression.
+In particular, I am curious about how biological systems organize and process **information and energy across time**, and how these processes give rise to higher-level functions such as cognition and memory, as well as disease progression.
 
 I hope to explore these questions by combining **computational modeling, AI, and insights from physics** to better understand the structure and dynamics of biological systems.
 
