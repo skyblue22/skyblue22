@@ -83,6 +83,12 @@ Relevant Coursework
 
 ---
 
+## 🎯 Extracurricular Activities
+
+- Computational Neuroscience Research Seminar ([nabilab.org](https://nabilab.org))
+
+---
+
 ## 📚 Intellectual Interests
 
 Beyond biomedical AI, I am also interested in conceptual frameworks that help explain complex systems:
